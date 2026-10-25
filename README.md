@@ -77,4 +77,4 @@ Thank you for choosing Event Euphoria for your event management needs! We hope y
 
 ## Live Demo
 
-[Events_Euphoria](./public/index.html)
+[Events_Euphoria](https://mangesh2704.github.io/Events-Euphoria-A-Event-Management-Website/public/index.html)
